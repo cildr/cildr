@@ -1,4 +1,3 @@
-image(https://avatars.githubusercontent.com/u/128024306?v=4)
 - 你好，这里是 cildr 👋 this is @cildr
 - CTFer✨LOLer
 - 网络安全🌱 cyberchef
